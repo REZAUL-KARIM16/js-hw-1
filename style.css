@@ -1,0 +1,75 @@
+.heading{
+
+    text-align: center;
+    margin-top: 30px;
+   
+}
+
+
+.heading h1{
+
+    color: blue;
+    font-family: Arial;
+    font-size: 20px;
+    width: 500px;
+    margin: auto;
+    line-height: 30px;
+
+
+}
+
+.clickbtn{
+
+    padding: 13px 20px;
+    background-color: #fddd4b;
+    font-size: 18px;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.back{
+
+    padding: 13px 30px;
+    background-color: #ca2e3d;
+    font-size: 18px;
+    color: white;
+  
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 15px;
+   
+
+}
+
+.lightOnOff{
+
+    text-align: center;
+    padding-bottom: 50px;
+}
+.lightOnOff img{
+
+    width: 150px;
+
+}
+
+.lightOnOff .offbtn{
+
+    padding: 8px 30px;
+    background-color: #501dbd;
+    font-size: 18px;
+    color: white;
+    border-radius: 15px;
+   
+
+}
+
+.lightOnOff .onbtn{
+
+    padding: 8px 30px;
+    background-color: #1dbd58;
+    font-size: 18px;
+    color: white;
+    border-radius: 15px;
+   
+
+}
